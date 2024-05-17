@@ -43,11 +43,11 @@ O projeto permite realizar operações de CRUD para as seguintes entidades:
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/Jordaobm/webservices
+   git clone https://github.com/Jordaobm/secao-23-projeto-web-services-com-spring-boot-e-jpa-hibernate
    ```
 2. **Navegue até o diretório do projeto:**
    ```sh
-   cd webservices
+   cd secao-23-projeto-web-services-com-spring-boot-e-jpa-hibernate
    ```
 3. **Edite o arquivo aplication.properties para que acesse o ip do seu container:**
    ```sh
